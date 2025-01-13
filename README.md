@@ -6,9 +6,14 @@ This project was generated using [Angular CLI](https://github.com/angular/angula
 
 To start a local development server, run:
 
-```bash
-ng serve
-```
+# HeroesApp
+
+## Dev
+
+1. Clonar el proyecto
+2. Ejecutar ```npm install```
+3. Levantar el backend ```npm run backend```
+4. Ejecutar la app ```npm start``` o bien ```ng serve -o```
 
 Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
 
