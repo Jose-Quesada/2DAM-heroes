@@ -166,6 +166,23 @@
       "alter_ego": "Norrin Radd",
       "first_appearance": "The Fantastic Four #48",
       "characters": "Norrin Radd"
+    },
+    {
+      "superhero": "Batman2",
+      "publisher": "DC Comics",
+      "alter_ego": "Bruce Wayne",
+      "first_appearance": "Detective Comics #27",
+      "characters": "Bruce Wayne",
+      "id": "mgJvpWh"
+    },
+    {
+      "id": "onztHa3",
+      "superhero": "Marto",
+      "publisher": "DC Comics",
+      "alter_ego": "Juan",
+      "first_appearance": "2025",
+      "characters": "Uno y otro",
+      "alt_img": "https://static.vecteezy.com/system/resources/previews/022/518/787/non_2x/cute-kawaii-baby-panda-sitting-cartoon-character-icon-illustration-children-illustration-animal-nature-concept-flat-cartoon-style-vector.jpg"
     }
   ]
 }
