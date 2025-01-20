@@ -182,7 +182,16 @@
       "alter_ego": "Juan",
       "first_appearance": "2025",
       "characters": "Uno y otro",
-      "alt_img": "https://static.vecteezy.com/system/resources/previews/022/518/787/non_2x/cute-kawaii-baby-panda-sitting-cartoon-character-icon-illustration-children-illustration-animal-nature-concept-flat-cartoon-style-vector.jpg"
+      "alt_img": ""
+    },
+    {
+      "id": "AQ51NHe",
+      "superhero": "Jaén",
+      "publisher": "DC Comics",
+      "alter_ego": "Torredelcampo",
+      "first_appearance": "2024",
+      "characters": "Antonio",
+      "alt_img": ""
     }
   ]
 }
